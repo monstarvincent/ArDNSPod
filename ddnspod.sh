@@ -279,4 +279,4 @@ arDdnsCheck() {
 #    arDdnsCheck "${domains[index]}" "${subdomains[index]}"
 #done
 
-. $DIR/dns.conf
+. /root/ArDNSPod/dns.conf
